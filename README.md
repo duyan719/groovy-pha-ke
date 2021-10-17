@@ -1,4 +1,5 @@
 ## Groovy Music Pha Ke 
+Được Việt Hóa Bởi Nguyễn Duy An
 
 ## Cài Đặt
 yêu cầu node 12x trở lên
